@@ -1,6 +1,6 @@
 ### Hi there 👋 How you doin
 
-[![EnesErcin](https://github-readme-stats.vercel.app/api/top-langs/username=EnesErcin&theme=noctis_minimus&count_private=true&hide=jupyter%20notebook,shell,stata,batchfile,tcl,forth)](https://github.com/EnesErcin/github-readme-stats)
+[![EnesErcin](https://github-readme-stats.vercel.app/api/top-langs/?username=EnesErcin&theme=noctis_minimus&count_private=true&hide=jupyter%20notebook,shell,stata,batchfile,tcl,forth)](https://github.com/EnesErcin/github-readme-stats)
 
 
 **EnesErcin/EnesErcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
