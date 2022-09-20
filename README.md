@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on convolutional neural network hardware design.
 - 🌱 I’m currently learning about machine learning.
-- 👯 I’m looking forward to collaborate with [![George Hotz](https://github.com/geohot).
+- 👯 I’m looking forward to collaborate with [George Hotz](https://github.com/geohot).
 - 🤔 I’m looking for help with life really.
 - 💬 Ask me about my dreams.
 - 📫 How to reach me: ercine20@itu.edu.tr
