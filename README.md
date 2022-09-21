@@ -1,7 +1,6 @@
 ### In case I dont see ya good evening, good afternoon and good night 
 
-[![EnesErcin](https://github-readme-stats.vercel.app/api/top-langs/?username=EnesErcin&layout=compact&langs_count=3&theme=tokyonight&exclude_repo=
-Image_Preprocessing_wFPGA&count_private=true&hide=jupyter%20notebook,shell,stata,batchfile,tcl)](https://github.com/EnesErcin/github-readme-stats)
+[![EnesErcin](https://github-readme-stats.vercel.app/api/top-langs/?username=EnesErcin&layout=compact&langs_count=3&theme=tokyonight&exclude_repo=Image_Preprocessing_wFPGA&count_private=true&hide=jupyter%20notebook,shell,stata,batchfile,tcl)](https://github.com/EnesErcin/github-readme-stats)
 
 
 **EnesErcin** is a ✨ _special_ ✨ repository.
