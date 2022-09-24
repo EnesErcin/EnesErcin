@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about my dreams.
 - 📫 How to reach me: ercine20@itu.edu.tr
 - 😄 Pronouns: Dedicated Practical Learner
-- ⚡ Fun fact: I am green belt in kickboxing
+- ⚡ Fun fact: I am green belt in kickboxing.
 
